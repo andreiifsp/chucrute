@@ -8,3 +8,18 @@
 
 OBS:vai ficar um pouco salgado² §
 
+
+Observações...
+ 
+ if(sua_alergia_a_chucrute() == true)
+ {
+ 	console.writeline("Ligue agora 193!!!");
+ }
+ else if(sua_alergia_a_sal() == true)
+ {
+ 	console.writeline("com certeza vc nao sabe oque vc esta comendo!!!");
+ }
+ else
+ {
+ 	console.writeline("saboreie!!!");
+ }
